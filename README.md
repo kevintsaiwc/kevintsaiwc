@@ -1,4 +1,8 @@
-## Hi there, I'm Kevin Tsai 👋
+### <span style="width: '25px'"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></div> Hi there. I'm Kevin Tsai. 👨🏻‍💻
+
+
+![](https://komarev.com/ghpvc/?username=kevintsaiwc&color=blue&style=flat)
+
 
 <!--
 **kevintsaiwc/kevintsaiwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
