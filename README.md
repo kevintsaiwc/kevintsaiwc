@@ -24,8 +24,8 @@
 - 💪 I am self-motivated in learning new programming skills and developing outstanding projects.
 - ⚡️ Fun fact: I like to listen to classical music, go hiking, and exercise in my leisure time.
 
-
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevintsaiwc&show_icons=true&hide_border=true&theme=gruvbox)
 <p>
-  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintsaiwc&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+  <img alt = "GitHub Status" src="https://github-readme-stats.vercel.app/api?username=kevintsaiwc&show_icons=true&theme=gruvbox&hide=html,&hide_border=true">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintsaiwc"/>
 </p>
