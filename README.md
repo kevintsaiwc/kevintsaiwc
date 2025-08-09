@@ -7,11 +7,14 @@
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![SQL](https://img.shields.io/badge/SQL-Expert-ff69b4)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-Expert-brightgreen)
-<br/>
 ![Linux](https://img.shields.io/badge/Linux-Expert-purple)
+<br/>
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-orange)
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-brown)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-lightblue)
+![Kotlin](https://img.shields.io/badge/Kotlin-Basic-blueviolet)
+![Java](https://img.shields.io/badge/Java-Basic-blue)
+
 ##### BIO
 
 
