@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![SQL](https://img.shields.io/badge/SQL-Expert-ff69b4)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-Expert-brightgreen)
+<br/>
 ![Linux](https://img.shields.io/badge/Linux-Expert-purple)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-orange)
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-brown)
