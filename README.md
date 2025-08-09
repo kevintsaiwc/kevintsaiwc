@@ -21,7 +21,11 @@
 - 🌱 Learning all about **Open Source**, **Workout**
 - 💬 Ping me about **Vim**, **Python**, **Docker**, **Linux**, **System Administration and Network Administration**
 - 🌐 Reach me: [kevintsaiwc.github.io](https://kevintsaiwc.github.io/)
+- 💪 I am self-motivated in learning new programming skills and developing outstanding projects.
 - ⚡️ Fun fact: I like to listen to classical music, go hiking, and exercise in my leisure time.
 
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevintsaiwc&show_icons=true&hide_border=true&theme=gruvbox)
 
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevintsaiwc&show_icons=true&hide_border=true&theme=gruvbox)
+<p>
+  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintsaiwc&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
