@@ -2,6 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=kevintsaiwc&color=yellow&style=flat)
+<br/>
 ![Vim](https://img.shields.io/badge/Vim-Expert-blueviolet)
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![SQL](https://img.shields.io/badge/SQL-Expert-ff69b4)
@@ -9,7 +10,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Expert-purple)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-orange)
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-brown)
-
+![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-lightblue)
 ##### BIO
 
 
