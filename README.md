@@ -8,7 +8,7 @@
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-Expert-brightgreen)
 ![Linux](https://img.shields.io/badge/Linux-Expert-purple)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-orange)
-
+![C/C++](https://img.shields.io/badge/C/C++-Intermediate-brown)
 
 ##### BIO
 
