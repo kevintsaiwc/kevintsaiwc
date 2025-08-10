@@ -13,7 +13,7 @@
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-brown)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-lightblue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Basic-blueviolet)
-![Java](https://img.shields.io/badge/Java-Basic-blue)
+<!-- ![Java](https://img.shields.io/badge/Java-Basic-blue) -->
 
 ##### BIO
 
