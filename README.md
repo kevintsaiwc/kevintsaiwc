@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-orange)
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-brown)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-lightblue)
-![Kotlin](https://img.shields.io/badge/Kotlin-Basic-blueviolet)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blueviolet)
 <!-- ![Java](https://img.shields.io/badge/Java-Basic-blue) -->
 
 ##### BIO
