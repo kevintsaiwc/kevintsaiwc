@@ -8,11 +8,10 @@
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-Expert-brightgreen)
 ![Linux](https://img.shields.io/badge/Linux-Expert-purple)
 <br/>
-![Docker](https://img.shields.io/badge/Docker-Intermediate-orange)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-green)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-orange)
-![MATLAB](https://img.shields.io/badge/MATLAB-Intermediate-lightblue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blueviolet)
-<!-- ![Java](https://img.shields.io/badge/Java-Basic-blue) -->
+![Android](https://img.shields.io/badge/Android-Basic-blue)
 
 ##### BIO
 
