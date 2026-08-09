@@ -17,7 +17,7 @@
 
 
 - 🏢 Full-time Lecturer, Department of Electrical Engineering, Lee-Ming Institute of Technology (Incoming, Summer 2026)
-- ⚙️ I use daily: `vim`, `Python`, `Docker`, `Linux`
+- ⚙️ I use daily: `vim`, `Python`, `Kotlin`, `Docker`, `Linux`
 - 🌍 I currently enage in the **Moby Project**
 - 🌱 Learning all about **Open Source**, **Workout**
 - 💬 Ping me about **Image/Video Proceesing**, **Digital Camera**, **Computer Vision**, **Machine Learning**, **Wireless Networks**, **FinTech**, and **Internal Medicine**.
