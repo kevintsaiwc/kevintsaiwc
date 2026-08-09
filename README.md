@@ -20,7 +20,7 @@
 - ⚙️ I use daily: `vim`, `Python`, `Docker`, `Linux`
 - 🌍 I currently enage in the **Moby Project**
 - 🌱 Learning all about **Open Source**, **Workout**
-- 💬 Ping me about **Image/Video Proceesing**, **Digital Camera**, **Computer Vision**, **Machine Learning**, **Internet of Things**, and **FinTech**.
+- 💬 Ping me about **Image/Video Proceesing**, **Digital Camera**, **Computer Vision**, **Machine Learning**, **Wireless Networks**, **FinTech**, and **Internal Medicine**.
 - 🌐 Reach me [here](it.kevintsai@gmail.com)
 - 💪 I am self-motivated in learning new programming skills and developing outstanding projects.
 - ⚡️ Fun fact: I like to listen to classical music, go hiking, and tennis in my leisure time.
