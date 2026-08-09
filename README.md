@@ -1,4 +1,4 @@
-### <span style="width: '25px'"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></div> Hi there. I'm Lawrence Tsai. 👨🏻‍💻
+### <span style="width: '25px'"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></div> Hi there. I'm Lawrence Kevin Tsai. 👨🏻‍💻
 
 
 ![](https://komarev.com/ghpvc/?username=kevintsaiwc&color=yellow&style=flat)
@@ -11,7 +11,7 @@
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-green)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-orange)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blueviolet)
-![Android](https://img.shields.io/badge/Android-Basic-blue)
+![Android](https://img.shields.io/badge/Android-Intermediate-blue)
 
 ##### BIO
 
