@@ -17,7 +17,7 @@
 
 
 - 🏢 Full-time Lecturer, Department of Electrical Engineering, Lee-Ming Institute of Technology (since Summer 2026)
-- Who also holds the [Synapse AI Lab](https://github.com/SynapseAILab).
+- 🔍 He also holds the [Synapse AI Lab](https://github.com/SynapseAILab).
 - ⚙️ I use daily: `vim`, `Python`, `Kotlin`, `Docker`, `Linux`
 - 🌍 I currently enage in the **Moby Project**
 - 🌱 Learning all about **Open Source**, **Workout**
